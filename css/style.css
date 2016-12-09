@@ -88,7 +88,7 @@ p{
 }
 
 .homebanner {
-  background: url('../img/base.png');
+  background: url('../img/awesome.jpg');
   background-size: cover;
 }
 
@@ -214,7 +214,7 @@ p{
 }
 
 .default_color {
-    background-color: #253149 !important
+    background-color: #000000 !important
 }
 
 .default_color_text{color: #2196F3 !important}
@@ -248,12 +248,12 @@ p{
     box-shadow: 0 1px 6px rgba(0,0,0,.35) !important; 
     -webkit-box-shadow:0 1px 6px rgba(0,0,0,.35) !important;
 }
-
+/* Header Text*/
 .text_h {
-    padding: 5% 0;
+    padding: 6% 0;
     font-size: 6.0em;
-    font-weight: 100;
-    color:white;
+    font-weight: 200;
+    color: #e2dff0;
 }
 
 .brand-logo{
@@ -290,7 +290,7 @@ p{
 
 nav ul a {
     font-size: 1.2rem;
-    color: #FFF;
+    color: #046a09;
     letter-spacing: 2px;
     display: block;
     font-weight: 300;
@@ -325,7 +325,7 @@ nav ul a {
     animation: cd-pulse 1s infinite;
 }
 .cd-headline.type .cd-words-wrapper.selected {
-    background-color: #FFF;
+    background-color: #046a09;
 }
 
 .cd-headline.type .cd-words-wrapper.selected::after {
