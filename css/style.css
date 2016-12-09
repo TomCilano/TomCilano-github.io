@@ -320,9 +320,9 @@ nav ul a {
 }
 
 .cd-headline.type .cd-words-wrapper.waiting::after {
-    -webkit-animation: cd-pulse 1s infinite;
-    -moz-animation: cd-pulse 1s infinite;
-    animation: cd-pulse 1s infinite;
+    -webkit-animation: cd-pulse .5s infinite;
+    -moz-animation: cd-pulse .5s infinite;
+    animation: cd-pulse .5s infinite;
 }
 .cd-headline.type .cd-words-wrapper.selected {
     background-color: #046a09;
